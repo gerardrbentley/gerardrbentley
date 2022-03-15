@@ -1,6 +1,16 @@
 ## Welcome :beers:
 
+I'm a software engineer interested in the web, machine learning, and how both impact us. This is my homepage, feel free
+to poke around.
+
+Most excited about time series data for environmental and social impact.
+
+Recently I've been working mostly in Python on topics ranging from ETL automation to mortgage returns to Computer
+Vision.
+
 For more about me, head to [my blog](https://tech.gerardbentley.com/).
+
+## Some Demos
 
 Here's a selection of projects I've recently been hacking on!
 

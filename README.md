@@ -1,4 +1,4 @@
-## Welcome :beers
+## Welcome 🍻
 
 I'm a software engineer interested in the web, machine learning, and how both impact us. This is my homepage, feel free
 to poke around.
